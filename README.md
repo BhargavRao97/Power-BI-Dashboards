@@ -23,19 +23,19 @@ A collection of Power BI dashboards built as part of my Data Analyst portfolio.
 
 ## Dashboard Previews
 
-### F1 2024 Season Analysis
+### F1 2024 Season Analysis (Beginner)
 ![F1 2024](f1_2024.png)
 
-### Amazon Ecommerce Analysis - Page 1
+### Amazon Ecommerce Analysis - Page 1 (Intermediate)
 ![Amazon](amazon_dashboard_page1.png)
 
-### Amazon Ecommerce Analysis - Page 2
+### Amazon Ecommerce Analysis - Page 2 (Intermediate)
 ![Amazon](amazon_dashboard_page2.png)
 
-### F1 Kaggle Historical Analysis - Page 1
+### F1 Kaggle Historical Analysis - Page 1 (Advanced)
 ![F1 Kaggle P1](f1_kaggle_page1.png)
 
-### F1 Kaggle Historical Analysis - Page 2
+### F1 Kaggle Historical Analysis - Page 2 (Advanced)
 ![F1 Kaggle P2](f1_kaggle_page2.png)
 
 ## Author
