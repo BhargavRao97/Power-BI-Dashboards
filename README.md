@@ -6,7 +6,7 @@ A collection of Power BI dashboards built as part of my Data Analyst portfolio.
 
 ### 1. F1 2024 Season Analysis (Beginner)
 - Driver championship standings, race winners, DNF tracker
-- Features: DAX measures, slicers, KPI cards, custom F1 theme
+- Features: DAX measures, slicers, KPI cards
 
 ### 2. Amazon Ecommerce Analysis (Intermediate)
 - Sales overview, product analysis across 2 pages
