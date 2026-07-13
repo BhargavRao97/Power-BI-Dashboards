@@ -16,7 +16,7 @@ A collection of Power BI dashboards built as part of my Data Analyst portfolio.
 - 70 years of F1 data (1950-2024)
 - Features: Time Intelligence DAX, Date Table, constructor & driver analysis
 
-  ### 4. Annotation Quality Tracker (Freelance Project)
+### 4. Annotation Quality Tracker (Freelance Project)
 - Tracks annotation accuracy, error rates, and rework trends across workflows
 - Accuracy trend from 88% → 96% over 18 months visualised using DAX time intelligence
 - Slicers for Task Type, Workflow Type, and Date Range for interactive filtering
@@ -44,8 +44,6 @@ A collection of Power BI dashboards built as part of my Data Analyst portfolio.
 ### F1 Kaggle Historical Analysis - Page 2 (Advanced)
 ![F1 Kaggle P2](f1_kaggle_page2.png)
 
-### Annotation Quality Tracker (Freelance Project)
-![Annotation Quality Tracker Dashboard](annotation_quality_tracker.png)
 
 ## Author
 Bhargav Rao — Data Analyst Portfolio
