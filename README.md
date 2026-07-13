@@ -22,6 +22,13 @@ A collection of Power BI dashboards built as part of my Data Analyst portfolio.
 - Slicers for Task Type, Workflow Type, and Date Range for interactive filtering
 - KPI cards: Total Tasks, Avg Accuracy, Total Errors, Total Rework
 
+### 5. Multi-Client Performance Dashboard (Freelance Project)
+- Tracks annotation time, accuracy, and error trends across 3 client accounts
+- Annotation time trend shows clear reduction from 11.7hrs → 6.8hrs over 6 months
+- Comparative analysis across Food Delivery, Energy, and Fintech clients
+- KPI cards: Total Tasks, Avg Accuracy, Avg Annotation Time, Total Errors, Total Annotators
+
+  
 ## Tools Used
 - Power BI Desktop
 - Power Query (M Language)
@@ -46,6 +53,9 @@ A collection of Power BI dashboards built as part of my Data Analyst portfolio.
 
 ### Annotation Quality Tracker (Freelance Project)
 ![AQT Dashboard](Aqt_dashboard.png)
+
+### 4. Multi-Client Performance Dashboard (Freelance Project)
+![MCPD Dashboard](mcpd_dashboard.png)
 
 ## Author
 Bhargav Rao — Data Analyst Portfolio
