@@ -44,6 +44,8 @@ A collection of Power BI dashboards built as part of my Data Analyst portfolio.
 ### F1 Kaggle Historical Analysis - Page 2 (Advanced)
 ![F1 Kaggle P2](f1_kaggle_page2.png)
 
+### Annotation Quality Tracker (Freelance Project)
+![AQT Dashboard](Aqt_dashboard.png)
 
 ## Author
 Bhargav Rao — Data Analyst Portfolio
